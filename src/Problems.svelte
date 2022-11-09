@@ -7,8 +7,8 @@
     <div class="list">
         <ul>
             <li>algorithms decide the fate of music</li>
-            <li>artists continue be overlooked</li>
-            <li>listeners continue to be fatigued</li>
+            <li>artists be overlooked</li>
+            <li id="listeners">listeners go unrewarded</li>
         </ul>
     </div>
 </div>
@@ -33,5 +33,9 @@
         font-size: 1.6em;
         margin: 10px;
         line-height: 1.5; 
+        padding-right: 15px;
+    }
+    #listeners {
+        padding-bottom: 20px;
     }
 </style>

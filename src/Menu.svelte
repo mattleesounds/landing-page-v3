@@ -1,6 +1,8 @@
 <div class="menu">
     <div class="logo">
-        <img src="./pfp.png" alt="POLP logo">
+        <a href="https://polp.app/">
+            <img src="./pfp.png" alt="POLP logo">
+        </a>
     </div>
     <div class="blank">
 

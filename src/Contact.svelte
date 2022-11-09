@@ -1,5 +1,5 @@
 <div class="contact">
-    <h1>Vibrate with Your Fellow Music Lovers</h1>
+    <h1>Vibe with Your Fellow Music Lovers</h1>
     <div class="btns">
         
         <div class="btn">
